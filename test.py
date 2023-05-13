@@ -1,7 +1,7 @@
 from transformers import AutoTokenizer, AutoModelWithLMHead
 
-tokenizer = AutoTokenizer.from_pretrained("") # your tokenizer path
-model = AutoModelWithLMHead.from_pretrained("") # your model path
+tokenizer = AutoTokenizer.from_pretrained("tokenizer") # your tokenizer path
+model = AutoModelWithLMHead.from_pretrained("code_generation") # your model path
 
 # copy and paste some code in here
 print("Enter the code for completion")
