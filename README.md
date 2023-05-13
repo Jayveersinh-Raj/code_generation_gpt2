@@ -19,10 +19,8 @@ This script uses PyTorch through the Transformers library. You need to have a co
 
 My version:
 
-+-------------------+
-
-|CUDA Version: 12.0 |
-
++-------------------+ <br>
+|CUDA Version: 12.0 | <br>
 +-------------------+
 
 # Example of input
