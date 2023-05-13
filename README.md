@@ -15,7 +15,7 @@ This script uses PyTorch through the Transformers library. You need to have a co
 
 # Check for nvidia
     
-    nividia-smi
+    nvidia-smi
 
 My version:
 +-------------------+
